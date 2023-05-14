@@ -29,7 +29,6 @@ async def _(event):
         "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n           <(^_^ <)🗑",
     ]
     for i in animation_ttl:
-
         await asyncio.sleep(animation_interval)
         await event.edit(animation_chars[i % 14])
 
@@ -165,7 +164,6 @@ async def _(event):
         "What The F Brah\n https://telegra.ph/file/e2972bf037db28f9ec8ed.png",
     ]
     for i in animation_ttl:
-
         await asyncio.sleep(animation_interval)
         await event.edit(animation_chars[i % 5], link_preview=True)
 
