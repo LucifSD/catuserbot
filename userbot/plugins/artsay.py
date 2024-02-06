@@ -3,7 +3,6 @@ Created by  Md Jisan.  tg @Jisan7509
 Plugin for CatUserbot
 """
 
-
 from . import mention
 
 

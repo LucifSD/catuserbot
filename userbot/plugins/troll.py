@@ -4,6 +4,7 @@ plugin for Cat_Userbot
 ☝☝☝
 You remove this, you gay.
 """
+
 from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 
